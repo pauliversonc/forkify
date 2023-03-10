@@ -40,7 +40,7 @@ The user interface for this project was designed and built by our teacher, **Jon
 
 ## Demo
 
-To see the Forkify Project website in action, visit [https://ecobuilders.netlify.app/](https://ecobuilders.netlify.app/).
+To see the Forkify Project website in action, visit [https://forkify-pauliversonc.netlify.app/](https://forkify-pauliversonc.netlify.app/).
 
 ## Credits
 
