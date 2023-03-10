@@ -6,14 +6,13 @@ Forkify is a vanilla JavaScript application that interacts with the Forkify API 
 
 ## Disclaimer
 
-This Forkify project was built using **HTML**, **CSS**, **Sass**, and **JavaScript** during my bootcamp on Udemy to enhance my skills in advanced JavaScript methods.
+This Forkify project was built using **HTML**, **Sass**, and **JavaScript** during my bootcamp on Udemy to enhance my skills in advanced JavaScript methods.
 
 The user interface for this project was designed and built by our teacher, **Jonas Schmedtmann**. All credit for the UI design goes to him. The main focus of this project was to build the functionality of the application using JavaScript.
 
 ## Technologies Used
 
 - HTML
-- CSS
 - Sass
 - JavaScript
 - Parcel
