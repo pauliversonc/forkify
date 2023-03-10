@@ -18,7 +18,7 @@ The user interface for this project was designed and built by our teacher, **Jon
 - Parcel
 - Babel
 - Core-JS
-- Fractional
+- Fracty
 - Regenerator-Runtime
 
 ## Features
